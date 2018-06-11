@@ -11,6 +11,6 @@ public class ChocolateChip2 extends Cookie{
 
     public static void main(String[] args){
         ChocolateChip2 x = new ChocolateChip2();
-        x.chomp();;
+        x.chomp();
     }
 }
