@@ -1,3 +1,5 @@
+//multiple interfaces
+
 interface CanFight{
     void fight();
 }
