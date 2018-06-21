@@ -27,8 +27,8 @@ public class Parcel2 {
     }
 
     public void ship(String dest){
-        Contents c = contents();
-        Destination d = to(dest);
+        Parcel2.Contents c = contents();
+        Parcel2.Destination d = to(dest);
         System.out.println(d.readLabel());
     }
 
