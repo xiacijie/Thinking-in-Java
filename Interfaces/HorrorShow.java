@@ -33,6 +33,7 @@ class VeryBadVampire implements Vampire{
     public void kill(){}
     public void drinkBlood(){}
 
+
 }
 
 public class HorrorShow {
