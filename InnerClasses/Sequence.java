@@ -1,7 +1,7 @@
 //Holds a sequence of Objects
 
 
-import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
+
 
 interface Selector{
     boolean end();
