@@ -1,5 +1,6 @@
-// Simple container example
-import java.util.*;
+package holding;// Simple container example
+
+import java.util.ArrayList;
 
 
 class Apple{
