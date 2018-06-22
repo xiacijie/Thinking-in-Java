@@ -23,6 +23,7 @@ public class Sequence {
 
     private class SequenceSelector implements Selector{
         private int i = 0;
+
         public boolean end(){
             return i == items.length;
         }
